@@ -2,14 +2,9 @@
 
 This repository contains the optimized implementation of the Agent Based Model (ABM) for simulating the daily confirmed cases of COVID-19 in a city used for validation (with the parameters of Ford county, Kansas, USA) and for exploring the effects of combined lock-down and digital contact tracing (with a scaled down version of New York city). 
 
-
-## Codes
-
-The codes for the ABM can be found in the 'code' directory.
-
 ## Data
 
-Data for two different places - Ford county, Kansas and New York city of United States of America are provided in the 'data' directory. The parameter values in the .csv files are to be set according to the data of the particular location that someone is willing to involve in the simulation. For running a simulation of any of the two places mentioned above, copy the contents of the particular directory in 'data' to the 'database' directory in code.
+Data for two different places - Ford county, Kansas and New York city of United States of America are provided in the 'database' directory. The parameter values in the .csv files are to be set according to the data of the particular location that someone is willing to involve in the simulation. 
 
 ## How to run
 
